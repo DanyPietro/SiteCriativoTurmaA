@@ -73,3 +73,7 @@ width: 120px;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+
+.estudante{
+    background-color: #A8B6DC;
+}
