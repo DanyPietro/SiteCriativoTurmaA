@@ -71,5 +71,5 @@ width: 120px;
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25% 25%;
+    grid-template-columns: 15% 15% 15% 15% 15%;
 }
